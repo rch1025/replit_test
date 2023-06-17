@@ -1,4 +1,4 @@
-"""상하좌우"""
+"""상하좌우 page 110"""
 N = int(input())
 plan = list(input().split())
 
